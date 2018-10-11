@@ -4,4 +4,4 @@ python:
  - 3.6
 
 script:
- - python mytest.py
+ - python -m unittest mytest.py
